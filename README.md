@@ -5,6 +5,8 @@ This is simple .NET client for implicit's FTPS protocol.
 ##Usage Example
 
 ```
+using V2MSoftware.Ftps;
+
 //Create client instance.
 FtpsClient client = new FtpsClient();
 
@@ -35,7 +37,8 @@ client.Disconnect();
 [Albert Lloveras Carbonell](https://github.com/alloveras)
 
 ## License
-Copyright (c) 2016 V2MSoftware
+Copyright &copy; 2016 V2MSoftware
+
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
