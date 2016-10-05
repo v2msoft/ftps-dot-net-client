@@ -1,0 +1,7 @@
+# Avoid commitning visual studio project folder
+.vs/
+
+
+# Avoid commiting Binaries and Objects
+bin/
+obj/
