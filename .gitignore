@@ -1,6 +1,8 @@
 # Avoid commitning visual studio project folder
 .vs/
 
+#Ignore user files
+*.user
 
 # Avoid commiting Binaries and Objects
 bin/
